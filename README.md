@@ -2,12 +2,12 @@
 
 A Python-based Intrusion Detection System that combines:
 
-- 🔍 Signature-Based Detection (known attacks)
-- 📊 Anomaly-Based Detection (unusual behavior)
+-  Signature-Based Detection (known attacks)
+-  Anomaly-Based Detection (unusual behavior)
 
 ---
 
-## 🚀 Features
+## Features
 - Real-time packet monitoring
 - SYN Flood detection
 - Port Scan detection
@@ -23,7 +23,7 @@ A Python-based Intrusion Detection System that combines:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 pip install -r requirements.txt
